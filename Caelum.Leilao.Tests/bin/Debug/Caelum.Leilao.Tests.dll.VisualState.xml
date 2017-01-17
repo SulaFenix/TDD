@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1025]C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.dll</TopNode>
+  <SelectedNode>[0-1025]C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1025]C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1026]Caelum" Expanded="true" />
+    <Node UniqueName="[0-1027]Caelum.Leilao" Expanded="true" />
+    <Node UniqueName="[0-1015]Caelum.Leilao.AvaliadorTest" Expanded="true" />
+    <Node UniqueName="[0-1028]Caelum.Leilao.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]Caelum.Leilao.Tests.FiltroDeLancesTest" Expanded="true" />
+    <Node UniqueName="[0-1006]Caelum.Leilao.Tests.MatematicaMalucaTest" Expanded="true" />
+    <Node UniqueName="[0-1012]Caelum.Leilao.Tests.PalindromoTest" Expanded="true" />
+  </Nodes>
+</VisualState>
