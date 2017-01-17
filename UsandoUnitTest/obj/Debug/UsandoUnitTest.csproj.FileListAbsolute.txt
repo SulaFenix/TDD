@@ -1,0 +1,8 @@
+C:\Users\Suellen\Documents\Alura\TDD\UsandoUnitTest\bin\Debug\UsandoUnitTest.dll
+C:\Users\Suellen\Documents\Alura\TDD\UsandoUnitTest\bin\Debug\UsandoUnitTest.pdb
+C:\Users\Suellen\Documents\Alura\TDD\UsandoUnitTest\bin\Debug\Caelum.Leilao.dll
+C:\Users\Suellen\Documents\Alura\TDD\UsandoUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Suellen\Documents\Alura\TDD\UsandoUnitTest\bin\Debug\Caelum.Leilao.pdb
+C:\Users\Suellen\Documents\Alura\TDD\UsandoUnitTest\obj\Debug\UsandoUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Suellen\Documents\Alura\TDD\UsandoUnitTest\obj\Debug\UsandoUnitTest.dll
+C:\Users\Suellen\Documents\Alura\TDD\UsandoUnitTest\obj\Debug\UsandoUnitTest.pdb
