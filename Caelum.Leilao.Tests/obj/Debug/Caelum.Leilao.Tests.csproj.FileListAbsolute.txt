@@ -1,0 +1,9 @@
+C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.dll
+C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.Tests.pdb
+C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.dll
+C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\bin\Debug\Caelum.Leilao.pdb
+C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.dll
+C:\Users\Suellen\Documents\Alura\TDD\Caelum.Leilao.Tests\obj\Debug\Caelum.Leilao.Tests.pdb
